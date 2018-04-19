@@ -1,0 +1,8 @@
+#忽略的文件
+.settings
+target
+.classpath
+.project
+compile.bat
+package.bat
+package.sh
